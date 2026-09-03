@@ -1,11 +1,13 @@
 about:
-  description: ✅ checks presence of various command line tools and their versions on the path 
+  description:
+  |
+    ✅ checks presence of various command line tools and their versions on the path 
   license: MIT
   homepage: 
   head: 0335c51
   archived: false
   latestVersion: v1.5.2
-  collectedAt: 2026-09-03T05:13:52Z
+  collectedAt: 2026-09-03T22:35:15Z
 timeline:
   created: 2014-02-20
   lastCommit: 2026-02-26
@@ -22,7 +24,7 @@ language:
   Shell: 30639
   Dockerfile: 13202
   Makefile: 1458
-totalLine: 45299
+totalBytes: 45299
 recent:
   last30d:
     since: 2026-08-04
