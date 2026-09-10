@@ -12,6 +12,28 @@
 x install has
 ```
 
+## 代码规模
+
+合计: **711** 行代码（覆盖前 5 种语言、共 **17** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Bash | 346 | 94 | 99 | 10 |
+| Dockerfile | 306 | 44 | 5 | 4 |
+| Makefile | 54 | 13 | 27 | 1 |
+| Sh | 4 | 2 | 3 | 1 |
+| Svg | 1 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **3.9 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/kdabir/has>
@@ -35,30 +57,20 @@ x install has
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 7 |
 | 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 7 |
+| last180d | 2026-03-14 | 0 | 1 | 0 | 0 | 0 | 7 |
 | 360d | 2025-09-15 | 0 | 8 | 2 | 0 | 1 | 10 |
+| last720d | 2024-09-20 | 2 | 10 | 3 | 2 | 1 | 19 |
 
-## 代码规模
+## 发行版状态
 
-合计: **711** 行代码（覆盖前 5 种语言、共 **17** 个文件）。
+在 [repology.org](https://repology.org/project/has) 上共有 **12** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Bash | 346 | 94 | 99 | 10 |
-| Dockerfile | 306 | 44 | 5 | 4 |
-| Makefile | 54 | 13 | 27 | 1 |
-| Sh | 4 | 2 | 3 | 1 |
-| Svg | 1 | 0 | 0 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **3.9 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.5.2` | ✅ latest |
+| Nix unstable | `1.5.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -69,4 +81,4 @@ has 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:59:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:18:57Z._
