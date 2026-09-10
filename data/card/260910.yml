@@ -228,4 +228,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
-{"id":236830801,"author":{"login":"kdabir","id":735240,"node_id":"MDQ6VXNlcjczNTI0MA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAQPNQs4OHcBR","tag_name":"v1.5.2","target_commitish":"master","name":"v1.5.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-08-01T09:42:37Z","updated_at":"2025-08-01T09:48:13Z","published_at":"2025-08-01T09:48:13Z","assets":[],"body":"- Fix for #87 thanks to @botantony for reporting and @chenrui333 for the PR\r\n- Added tests for --verion, -v, --help, -h","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":0},"mentions_count":2}
