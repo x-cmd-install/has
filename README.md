@@ -65,12 +65,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/has). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **12** distros on [repology.org](https://repology.org/project/has). **1** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.5.2` | ✅ latest |
-| Nix unstable | `1.5.2` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.5.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for has lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:28:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:35:59Z._
