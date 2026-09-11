@@ -14,13 +14,13 @@ x install has
 
 ## Code insight
 
-Total: **711** lines of code across **17** files in the top 5 languages.
+Total: **724** lines of code across **17** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bash | 346 | 94 | 99 | 10 |
 | Dockerfile | 306 | 44 | 5 | 4 |
-| Makefile | 54 | 13 | 27 | 1 |
+| Makefile | 67 | 14 | 29 | 1 |
 | Sh | 4 | 2 | 3 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
 
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.5.2` (2025-08-01)
-- **Last commit**: 2026-09-05
+- **Latest**: `v1.6.0` (2026-09-11)
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 52 · **Open PRs**: 4 · **Closed issues**: 26 · **Open issues**: 10 · **Commits**: 154
+- **Releases**: 7 · **Merged PRs**: 52 · **Open PRs**: 4 · **Closed issues**: 26 · **Open issues**: 10 · **Commits**: 156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 7 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last180d | 2026-03-14 | 0 | 1 | 0 | 0 | 0 | 7 |
-| 360d | 2025-09-15 | 0 | 8 | 2 | 0 | 1 | 10 |
-| last720d | 2024-09-20 | 2 | 10 | 3 | 2 | 1 | 19 |
+| 30d | 2026-08-12 | 1 | 1 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-13 | 1 | 1 | 0 | 0 | 0 | 9 |
+| 90d | 2026-06-13 | 1 | 1 | 0 | 0 | 0 | 9 |
+| last180d | 2026-03-15 | 1 | 1 | 0 | 0 | 0 | 9 |
+| 360d | 2025-09-16 | 1 | 8 | 2 | 0 | 1 | 12 |
+| last720d | 2024-09-21 | 3 | 10 | 3 | 2 | 1 | 21 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for has lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:31:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:28:28Z._
