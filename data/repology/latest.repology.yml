@@ -5,7 +5,7 @@
   visiblename: has
   version: 1.5.2
   origversion: 1.5.2-alt1
-  status: newest
+  status: outdated
   summary: checks presence of various command line tools and their versions on the path
   maintainers:
     - zerospirit@altlinux.org
@@ -19,7 +19,7 @@
   visiblename: has
   version: 1.5.2
   origversion: 1.5.2-1
-  status: newest
+  status: outdated
   summary: has checks presence of various command line tools and their versions on the path
   maintainers:
     - aditya@aur
@@ -49,7 +49,7 @@
 - repo: homebrew
   srcname: has
   visiblename: has
-  version: 1.5.2
+  version: 1.6.0
   origversion: null
   status: newest
   summary: Checks presence of various command-line tools and their versions on the path
@@ -98,7 +98,7 @@
   visiblename: has
   version: 1.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Checks presence of various command line tools and their versions on the path
   maintainers:
     - wuzhenyu@ustc.edu
@@ -109,7 +109,7 @@
   visiblename: has
   version: 1.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Checks presence of various command line tools and their versions on the path
   maintainers:
     - wuzhenyu@ustc.edu
@@ -120,7 +120,7 @@
   visiblename: has
   version: 1.5.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Checks presence of various command line tools and their versions on the path
   maintainers:
     - wuzhenyu@ustc.edu
