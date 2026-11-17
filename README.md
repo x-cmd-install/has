@@ -24,6 +24,16 @@ Total: **724** lines of code across **17** files in the top 5 languages.
 | Sh | 4 | 2 | 3 | 1 |
 | Svg | 1 | 0 | 0 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/kdabir/has>
@@ -46,12 +56,12 @@ Total: **724** lines of code across **17** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 1 | 1 | 2 | 0 | 0 | 9 |
-| last180d | 2026-05-20 | 1 | 1 | 2 | 0 | 0 | 9 |
-| 360d | 2025-11-21 | 1 | 8 | 4 | 0 | 0 | 11 |
-| last720d | 2024-11-26 | 3 | 9 | 4 | 2 | 1 | 20 |
+| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 1 | 1 | 2 | 0 | 0 | 9 |
+| last180d | 2026-05-21 | 1 | 1 | 2 | 0 | 0 | 9 |
+| 360d | 2025-11-22 | 1 | 8 | 4 | 0 | 0 | 11 |
+| last720d | 2024-11-27 | 3 | 9 | 4 | 2 | 1 | 20 |
 
 ## Distribution status
 
@@ -71,4 +81,4 @@ Install metadata for has lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:17:47Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:50:05Z._
