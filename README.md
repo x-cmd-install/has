@@ -56,21 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 1 | 1 | 2 | 0 | 0 | 9 |
-| last180d | 2026-05-29 | 1 | 1 | 2 | 0 | 0 | 9 |
-| 360d | 2025-11-30 | 1 | 7 | 3 | 0 | 0 | 11 |
-| last720d | 2024-12-05 | 3 | 9 | 4 | 2 | 1 | 20 |
-
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/has). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.5.2` | ⚠️ outdated |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 1 | 1 | 2 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 1 | 1 | 2 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 1 | 7 | 3 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 3 | 9 | 4 | 2 | 1 | 20 |
 
 ## Improve this data
 
@@ -81,4 +72,4 @@ Install metadata for has lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:15:58Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:06:35Z._
